@@ -50,6 +50,8 @@ Connect this endpoint in your Vapi app’s assistant configuration.
 
 ## Response Format
 
+![image](assets/image2.png)
+
 * The assistant replies with structured natural language:
 
   > "I have successfully retrieved the weather information for Tokyo. Please let me know if you need any specific details about the weather such as temperature, conditions, or forecast."
